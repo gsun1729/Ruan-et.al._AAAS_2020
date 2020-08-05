@@ -2,6 +2,7 @@
 Description
 ===
 Supplementary information for publication Ruan et al. in AAAS 2020.
+Paper can be accessed [here](https://advances.sciencemag.org/content/6/32/eabc7288)
 
 Simulation of artificial cell with E number of ERMES spots, simulate distribution of minimum distances from 1 artificially spawned DUMP spot into the cell. E spots are not allowed to overlap, while DUMP spot is allowed to overlap.
 
